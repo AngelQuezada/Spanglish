@@ -1,0 +1,33 @@
+/* .home-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .card {
+    width: 400px;
+    margin: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .card-title {
+    margin-bottom: 20px;
+  }
+  
+  .font-family-curly {
+    color: black;
+    font-family: 'YourCurlyFont', cursive;
+  }
+  
+  h3{
+    color: black;
+  } */
+
+  section {
+    margin-top: 15%;
+  }
