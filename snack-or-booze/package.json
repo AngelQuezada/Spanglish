@@ -4,7 +4,7 @@
   "private": true,
   "engines": {
     "node": "16.x"
-  },  
+  },
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.12.13",
     "@testing-library/jest-dom": "^4.2.4",
@@ -45,5 +45,4 @@
       "last 1 safari version"
     ]
   }
-  
 }
